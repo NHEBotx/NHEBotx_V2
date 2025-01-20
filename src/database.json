@@ -1,0 +1,24 @@
+{
+  "users": {
+    "62881027174423@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6288989971490@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "120363250101511361@newsletter": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    }
+  },
+  "database": {},
+  "chats": {},
+  "game": {},
+  "settings": {},
+  "message": {}
+}
